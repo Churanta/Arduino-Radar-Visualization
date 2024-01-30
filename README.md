@@ -12,6 +12,7 @@ An Arduino project for visualizing distance measurements using an ultrasonic sen
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
+- [Video Demo](#Video-demo)
 
 ## Overview
 
@@ -72,4 +73,4 @@ Feel free to contribute to this project! If you have any ideas, bug fixes, or im
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
+## Video Demo
