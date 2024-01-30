@@ -38,6 +38,8 @@ This project combines Arduino and Processing to create a radar-like visualizatio
    - Connect GND to GND on Arduino.
    - Connect Signal to digital pin 12 on Arduino.
 
+![Circuit Diagram](./Circuit Diagram.png)
+
 ## Installation
 
 1. Upload the Arduino code (`Arduino_Radar.ino`) to your Arduino board using the Arduino IDE.
