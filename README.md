@@ -74,3 +74,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 ## Video Demo
+![Video-Demo](https://github.com/Churanta/Arduino-Radar-Visualization/assets/83538805/18ef9886-1d08-48c7-9b3a-115705e62598)
