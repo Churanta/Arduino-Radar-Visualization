@@ -73,6 +73,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-[![Build Status](your-build-status-badge-link)](your-build-status-link)
-[![Version](your-version-badge-link)](your-releases-link)
-[![License](your-license-badge-link)](your-license-link)
